@@ -1,0 +1,12 @@
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\bin\Debug\Ejercicio06-Ramirez.exe.config
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\bin\Debug\Ejercicio06-Ramirez.exe
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\bin\Debug\Ejercicio06-Ramirez.pdb
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\bin\Debug\Ejercicio06-Ramirez.xml
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\obj\Debug\Ejercicio06-Ramirez.vbproj.AssemblyReference.cache
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\obj\Debug\Ejercicio06_Ramirez.Peliculas.resources
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\obj\Debug\Ejercicio06_Ramirez.Resources.resources
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\obj\Debug\Ejercicio06-Ramirez.vbproj.GenerateResource.cache
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\obj\Debug\Ejercicio06-Ramirez.vbproj.CoreCompileInputs.cache
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\obj\Debug\Ejercicio06-Ramirez.exe
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\obj\Debug\Ejercicio06-Ramirez.xml
+E:\FPsuperior\Desarrollo de intefaces\Ejercicio06-Ramirez\Ejercicio06-Ramirez\Ejercicio06-Ramirez\obj\Debug\Ejercicio06-Ramirez.pdb

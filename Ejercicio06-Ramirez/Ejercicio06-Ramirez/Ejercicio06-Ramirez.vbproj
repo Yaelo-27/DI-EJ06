@@ -4,14 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9944160E-1ABB-40C7-941B-EC12504ABCF8}</ProjectGuid>
+    <ProjectGuid>{78D2CBC2-440A-466F-9817-E2BD11387AE1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>Ejercicio06_Ramirez.My.MyApplication</StartupObject>
     <RootNamespace>Ejercicio06_Ramirez</RootNamespace>
     <AssemblyName>Ejercicio06-Ramirez</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
@@ -118,6 +118,27 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\halloweenkills.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hobbit.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kidbeast.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lrgs.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\default.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\babydriver.PNG" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

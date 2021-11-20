@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1433
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ejercicio06-Ramirez", "Ejercicio06-Ramirez\Ejercicio06-Ramirez.vbproj", "{9944160E-1ABB-40C7-941B-EC12504ABCF8}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ejercicio06-Ramirez", "Ejercicio06-Ramirez\Ejercicio06-Ramirez.vbproj", "{78D2CBC2-440A-466F-9817-E2BD11387AE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9944160E-1ABB-40C7-941B-EC12504ABCF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9944160E-1ABB-40C7-941B-EC12504ABCF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9944160E-1ABB-40C7-941B-EC12504ABCF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9944160E-1ABB-40C7-941B-EC12504ABCF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D2CBC2-440A-466F-9817-E2BD11387AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D2CBC2-440A-466F-9817-E2BD11387AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D2CBC2-440A-466F-9817-E2BD11387AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D2CBC2-440A-466F-9817-E2BD11387AE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AD7708A4-688C-45CD-997F-8DEA39EC8809}
+		SolutionGuid = {4E8101CB-DBD5-4847-BD26-09F8E7762BD9}
 	EndGlobalSection
 EndGlobal
